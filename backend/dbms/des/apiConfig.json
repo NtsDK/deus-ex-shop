@@ -1,0 +1,75 @@
+{
+    "implantsBaseCredentials":{
+        "login":"",
+        "password":""
+    },   
+    "pillsBaseCredentials":{
+        "login":"",
+        "password":""
+    },   
+    "curPillsBaseCredentials":{
+        "login":"",
+        "password":""
+    },   
+    "apiOptions":{
+        "commonOpts" : {
+            "protocol" : "https:",
+            "host": "alice.digital",
+            "port": 443,
+            "headers": {
+                "accept": "application/json"
+            },
+            "timeout": 3000
+        },
+        "getShopDataOpts" : {
+            "path": "/econ/api/accounts/profile?login=",
+            "method": "GET"
+        },
+        "implantOpts" :  {
+            "path": "/econ/api/implant",
+            "method": "POST",
+            "headers": {
+                "content-type": "application/json"
+            }
+        },
+        "transferOpts" : {
+            "path": "/econ/api/transfer",
+            "method": "POST",
+            "headers": {
+                "content-type": "application/json"
+            }
+        },
+        "postEventOpts" : {
+            "path": "/api/events/",
+            "method": "POST",
+            "headers": {
+                "content-type": "application/json"
+            }
+        },
+        "postPillsOpts" : {
+            "path": "/pills/_bulk_docs",
+            "method": "POST",
+            "port": 6984,
+            "headers": {
+                "content-type": "application/json"
+            }
+        },
+        "assetsApiCheckOpts" : {
+            "path": "/dict-implants/_all_docs",
+            "method": "GET",
+            "port": 6984,
+            "headers": {
+                "content-type": "application/json"
+            }
+        },
+        "getFullImplantDataOpts" : {
+            "path": "/dict-implants/_all_docs?include_docs=true"
+        },
+        "getFullPillsDataOpts" : {
+            "path": "/dict-pills/_all_docs?include_docs=true"
+        },
+        "getCurPillsDataOpts" : {
+            "path": "/pills/_all_docs"
+        }
+    }
+}

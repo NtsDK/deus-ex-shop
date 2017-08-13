@@ -1,0 +1,3072 @@
+{
+  "Meta": {
+    "name": "",
+    "date": "1970/01/01 00:00",
+    "preGameDate": "1970/01/01 00:00",
+    "description": "",
+    "saveTime": "Sun Aug 13 2017 17:41:25 GMT+0500 (Pakistan Standard Time)"
+  },
+  "Settings": {
+    "BriefingPreview": {},
+    "Stories": {},
+    "CharacterProfile": {}
+  },
+  "Version": "0.6.9",
+  "Master": {
+    "name": "admin",
+    "password": "zxpoYR65"
+  },
+  "Log": [
+  ],
+  "Shops": {
+    "1": {
+      "name": "1",
+      "password": "2",
+      "corporation": "",
+      "sellerLogin": "",
+      "sellerPassword": "",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "neurolab": {
+      "name": "neurolab",
+      "password": "7uki3one",
+      "corporation": "",
+      "sellerLogin": "neurolab",
+      "sellerPassword": "737phe3d",
+      "assets": {
+        "FirstAid1": true,
+        "S74": true,
+        "LastChance": true
+      },
+      "categories": {
+        "Таблетки": {
+          "globals": {
+            "FirstAid1": {
+              "cost": 1
+            },
+            "S74": {
+              "cost": 0
+            },
+            "LastChance": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "spacity": {
+      "name": "spacity",
+      "password": "0sxl8pgq",
+      "corporation": "",
+      "sellerLogin": "spacity",
+      "sellerPassword": "xhr2q5wi",
+      "assets": {
+        "lab_cube": true,
+        "lab_fury": true,
+        "lab_memorycard": true
+      },
+      "categories": {},
+      "localAssets": {}
+    },
+    "charitycab": {
+      "name": "charitycab",
+      "password": "2fopmh2t",
+      "corporation": "",
+      "sellerLogin": "charitycab",
+      "sellerPassword": "pesh8jk7",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "lifescanlab": {
+      "name": "lifescanlab",
+      "password": "8cv54t46",
+      "corporation": "",
+      "sellerLogin": "lifescanlab",
+      "sellerPassword": "seppxd16",
+      "assets": {
+        "jj_bioair": true,
+        "jj_biolymph": true,
+        "jj_fractal": true,
+        "jj_i_am_agender": true,
+        "jj_i_am_boy": true,
+        "jj_i_am_girl": true,
+        "jj_wolverine": true
+      },
+      "categories": {},
+      "localAssets": {}
+    },
+    "arasinc": {
+      "name": "arasinc",
+      "password": "2233",
+      "corporation": "",
+      "sellerLogin": "arasinc",
+      "sellerPassword": "0a7m8e72",
+      "assets": {},
+      "categories": {
+        "Убрать": {
+          "globals": {},
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "cosmolab": {
+      "name": "cosmolab",
+      "password": "ow0ey110",
+      "corporation": "",
+      "sellerLogin": "cosmolab",
+      "sellerPassword": "zptekn6d",
+      "assets": {
+        "S82": true,
+        "S92": true,
+        "S100": true,
+        "S113": true,
+        "S120": true,
+        "S73": true,
+        "DS2": true,
+        "S104": true,
+        "S114": true,
+        "S124": true,
+        "S74": true,
+        "S84": true,
+        "S94": true,
+        "ascend-apostle-pill": true,
+        "passion-pill": true,
+        "quasar": true,
+        "skvt16": true,
+        "unlock-pill": true,
+        "FirstAid5": true,
+        "lab_yag": true,
+        "lab_lover": true,
+        "lab_billy": true,
+        "lab_apple": true
+      },
+      "categories": {
+        "Таблетки": {
+          "globals": {
+            "skvt16": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        },
+        "Stamm": {
+          "globals": {
+            "S82": {
+              "cost": 0
+            },
+            "S92": {
+              "cost": 0
+            },
+            "S100": {
+              "cost": 0
+            },
+            "S113": {
+              "cost": 0
+            },
+            "S120": {
+              "cost": 0
+            },
+            "S73": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "isracorp": {
+      "name": "isracorp",
+      "password": "xg6nim5l",
+      "corporation": "",
+      "sellerLogin": "isracorp",
+      "sellerPassword": "eagi0en5",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "karhallab": {
+      "name": "karhallab",
+      "password": "r1al9iad",
+      "corporation": "",
+      "sellerLogin": "karhallab",
+      "sellerPassword": "sc4ol8hx",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "salon42": {
+      "name": "salon42",
+      "password": "7lws5dn0",
+      "corporation": "",
+      "sellerLogin": "salon42",
+      "sellerPassword": "ut56032t",
+      "assets": {
+        "S70": true,
+        "S83": true,
+        "S90": true,
+        "S102": true,
+        "S111": true,
+        "S122": true,
+        "LS1": true,
+        "SSS1": true,
+        "S71": true,
+        "S93": true,
+        "S112": true,
+        "apollo-berserk-pill": true,
+        "apollo-freeze-pill": true,
+        "apollo-geracle-pill": true,
+        "apollo-thunder-pill": true,
+        "cometa": true,
+        "altnarco": true,
+        "memory-pill": true,
+        "occam-pill": true,
+        "talker-pill": true,
+        "FirstAid1": true,
+        "lab_crutch": true,
+        "lab_shield": true,
+        "lab_courier": true
+      },
+      "categories": {
+        "Таблетки": {
+          "globals": {
+            "cometa": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        },
+        "Вещества": {
+          "globals": {},
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "spanglish": {
+      "name": "spanglish",
+      "password": "bhb5tq0o",
+      "corporation": "",
+      "sellerLogin": "spanglish",
+      "sellerPassword": "pbt7koio",
+      "assets": {
+        "lab_yag": true,
+        "lab_hook": true,
+        "lab_dumbo": true,
+        "lab_i_am_girl": true
+      },
+      "categories": {},
+      "localAssets": {}
+    },
+    "JJ": {
+      "name": "JJ",
+      "password": "shsvv9to",
+      "corporation": "",
+      "sellerLogin": "JJ",
+      "sellerPassword": "0awe6hfb",
+      "assets": {
+        "jj_biolymph": true,
+        "jj_fractal": true,
+        "jj_i_am_girl": true,
+        "jj_i_am_boy": true,
+        "jj_i_am_agender": true,
+        "jj_wolverine": true
+      },
+      "categories": {
+        "ODS": {
+          "globals": {},
+          "locals": {}
+        },
+        "FirstAid": {
+          "globals": {},
+          "locals": {}
+        },
+        "Stamms": {
+          "globals": {},
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "Panam": {
+      "name": "Panam",
+      "password": "rqfcqj2x",
+      "corporation": "",
+      "sellerLogin": "Panam",
+      "sellerPassword": "w1nzp1ih",
+      "assets": {
+        "pa_cyberg0": true,
+        "pa_friendin1": true,
+        "pa_patriot": true,
+        "pa_basekit": true,
+        "pa_basefightkit": true
+      },
+      "categories": {},
+      "localAssets": {}
+    },
+    "Serenity": {
+      "name": "Serenity",
+      "password": "6wislj73",
+      "corporation": "",
+      "sellerLogin": "Serenity",
+      "sellerPassword": "esjlcqwr",
+      "assets": {
+        "s_stability": true,
+        "s_steelheart": true,
+        "s_orphey": true,
+        "s_adamj": true,
+        "s_snow": true
+      },
+      "categories": {
+        "Общая": {
+          "globals": {
+            "s_stability": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "Govt": {
+      "name": "Govt",
+      "password": "4qmsm3nh",
+      "corporation": "",
+      "sellerLogin": "Govt",
+      "sellerPassword": "vdve1hks",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "holden": {
+      "name": "holden",
+      "password": "0s2jmq8q",
+      "corporation": "",
+      "sellerLogin": "holdenlab",
+      "sellerPassword": "a73vqre4",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "gentech": {
+      "name": "gentech",
+      "password": "ogqe7waa",
+      "corporation": "",
+      "sellerLogin": "gentech",
+      "sellerPassword": "ov9uwsi6",
+      "assets": {
+        "S100": true,
+        "S101": true,
+        "S102": true,
+        "S103": true,
+        "S110": true,
+        "S111": true,
+        "S112": true,
+        "S113": true,
+        "S120": true,
+        "S121": true,
+        "S122": true,
+        "S123": true,
+        "S70": true,
+        "S71": true,
+        "S72": true,
+        "S73": true,
+        "S80": true,
+        "S81": true,
+        "S82": true,
+        "S83": true,
+        "S90": true,
+        "S91": true,
+        "S92": true,
+        "S93": true
+      },
+      "categories": {
+        "Stamms": {
+          "globals": {
+            "S123": {
+              "cost": 0
+            },
+            "S83": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "janslab": {
+      "name": "janslab",
+      "password": "itenwe4t",
+      "corporation": "",
+      "sellerLogin": "janslab",
+      "sellerPassword": "1eq5n0ps",
+      "assets": {
+        "DS1": true,
+        "DS2": true,
+        "DS4": true,
+        "emotional-pill": true,
+        "ES3": true,
+        "ES5": true,
+        "ES6": true,
+        "FirstAid1": true,
+        "FirstAid2": true,
+        "FirstAid4": true,
+        "FirstAid5": true,
+        "janus": true,
+        "LastChance": true,
+        "LS1": true,
+        "LS2": true,
+        "LS4": true,
+        "memory-pill": true,
+        "occam-pill": true,
+        "ODS3": true,
+        "ODS4": true,
+        "ODS6": true,
+        "pacific-pill": true,
+        "passion-pill": true,
+        "skvt16": true,
+        "SSS1": true,
+        "SSS5": true,
+        "SSS6": true,
+        "talker-pill": true,
+        "unlock-pill": true
+      },
+      "categories": {
+        "Таблетки": {
+          "globals": {
+            "emotional-pill": {
+              "cost": 0
+            },
+            "passion-pill": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    },
+    "stfranhosp": {
+      "name": "stfranhosp",
+      "password": "myvtklms",
+      "corporation": "",
+      "sellerLogin": "stfranhosp",
+      "sellerPassword": "zle1o6mz",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "dexcomp": {
+      "name": "dexcomp",
+      "password": "hubohzli",
+      "corporation": "",
+      "sellerLogin": "dexcomp",
+      "sellerPassword": "jc4dn18b",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "fedcybex": {
+      "name": "fedcybex",
+      "password": "s5bjgw2v",
+      "corporation": "",
+      "sellerLogin": "fedcybex",
+      "sellerPassword": "vkc9crdj",
+      "assets": {},
+      "categories": {},
+      "localAssets": {}
+    },
+    "tatneedle": {
+      "name": "tatneedle",
+      "password": "tatneedle",
+      "corporation": "",
+      "sellerLogin": "tatneedle",
+      "sellerPassword": "",
+      "assets": {
+        "S72": true,
+        "S80": true,
+        "S81": true,
+        "S91": true,
+        "S101": true,
+        "S103": true,
+        "S110": true,
+        "S121": true,
+        "S123": true
+      },
+      "categories": {},
+      "localAssets": {}
+    },
+    "exitclub": {
+      "name": "exitclub",
+      "password": "exitclub",
+      "corporation": "",
+      "sellerLogin": "exitclub",
+      "sellerPassword": "",
+      "assets": {
+        "ES3": true,
+        "ODS4": true,
+        "emotional-pill": true,
+        "janus": true,
+        "pacific-pill": true,
+        "pulsar": true,
+        "tanatos-afazia-pill": true,
+        "tanatos-belmo-pill": true,
+        "tanatos-buran-pill": true,
+        "tanatos-papuas-pill": true,
+        "tanatos-staz-pill": true,
+        "zagrey-pill": true,
+        "FirstAid2": true
+      },
+      "categories": {
+        "34": {
+          "globals": {},
+          "locals": {
+            "3445": {
+              "cost": 34
+            }
+          }
+        }
+      },
+      "localAssets": {
+        "3445": {
+          "description": "",
+          "displayString": "56"
+        }
+      }
+    },
+    "garagecoop": {
+      "name": "garagecoop",
+      "password": "frt46dds",
+      "corporation": "",
+      "sellerLogin": "",
+      "sellerPassword": "",
+      "assets": {
+        "lab_midas": true,
+        "lab_lymphotic": true,
+        "lab_memorycard": true
+      },
+      "categories": {},
+      "localAssets": {}
+    },
+    "The Project Magazine": {
+      "name": "The Project Magazine",
+      "password": "fgd453df",
+      "corporation": "",
+      "sellerLogin": "hope",
+      "sellerPassword": "",
+      "assets": {
+        "lab_highcity": true
+      },
+      "categories": {},
+      "localAssets": {}
+    },
+    "mastershop": {
+      "name": "mastershop",
+      "password": "333",
+      "corporation": "",
+      "sellerLogin": "mastershop",
+      "sellerPassword": "mstr7855",
+      "assets": {
+        "jj_aggression": true,
+        "FirstAid4": true
+      },
+      "categories": {
+        "22": {
+          "globals": {
+            "jj_aggression": {
+              "cost": 0
+            },
+            "FirstAid4": {
+              "cost": 0
+            }
+          },
+          "locals": {}
+        }
+      },
+      "localAssets": {}
+    }
+  },
+  "Assets": {
+    "Биоухо \"Дамбо\"": {
+      "name": "Биоухо \"Дамбо\"",
+      "displayString": "Биоухо \"Дамбо\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_Dumbo",
+      "description": "подпольный био\tДля нервной системы\t\nТы ничего не слышишь тем ухом, на который установлен имплант. Это должны замечать люди, которые находятся рядом с тобой."
+    },
+    "Киберглаз \"Фьюри\"": {
+      "name": "Киберглаз \"Фьюри\"",
+      "displayString": "Киберглаз \"Фьюри\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_Fury",
+      "description": "подпольный кибер\tДля нервной системы\t\nКиберглаз позволяет лучше видеть, но при этом тебя регулярно мучает головная боль."
+    },
+    "Биостимулятор нервной системы «Фрактал»": {
+      "name": "Биостимулятор нервной системы «Фрактал»",
+      "displayString": "Биостимулятор нервной системы «Фрактал»",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "JJ_Fractal",
+      "description": "Биологический\tДля нервной системы\t\nC вашим сознанием могут работать по технологии Johnson&Johnson."
+    },
+    "Киберинжектор \"Айс\"": {
+      "name": "Киберинжектор \"Айс\"",
+      "displayString": "Киберинжектор \"Айс\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "X_Ice",
+      "description": "Кибер\tДля нервной системы"
+    },
+    "Биостимулятор \"Без чувств\"": {
+      "name": "Биостимулятор \"Без чувств\"",
+      "displayString": "Биостимулятор \"Без чувств\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "JJ_Log",
+      "description": "Биологический\tДля нервной системы"
+    },
+    "Киберинжектор \"Анастетик\"": {
+      "name": "Киберинжектор \"Анастетик\"",
+      "displayString": "Киберинжектор \"Анастетик\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "S_Anesthetic",
+      "description": "Кибер\tДля нервной системы"
+    },
+    "Имплант нервной системы \"Призрак\"": {
+      "name": "Имплант нервной системы \"Призрак\"",
+      "displayString": "Имплант нервной системы \"Призрак\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "X_Ghost",
+      "description": "Биологический\tДля нервной системы"
+    },
+    "Генномодифицированный глаз \"Горгона\"": {
+      "name": "Генномодифицированный глаз \"Горгона\"",
+      "displayString": "Генномодифицированный глаз \"Горгона\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "JJ_Gorgon",
+      "description": "Биологический\tДля нервной системы\t\nНа лице необходимо сделать ОЧЕНЬ заметный антураж (очень сильно любым спобосом выделить глаза; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "Киберстимулятор нервной системы \"Лжец\"": {
+      "name": "Киберстимулятор нервной системы \"Лжец\"",
+      "displayString": "Киберстимулятор нервной системы \"Лжец\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "S_Liar",
+      "description": "Кибер\tДля нервной системы\t\"\nТвои аналитические способности повысились, ты явно видишь, когда человек тебе лжет. Поэтому ты можешь, задав вопрос и получив ответ, спросить \"\"Ответил ли ты мне честно\"\" и человек обязан будет тебе ответить честно, соврал или нет."
+    },
+    "Биостимулятор нервной системы \"Правда\"": {
+      "name": "Биостимулятор нервной системы \"Правда\"",
+      "displayString": "Биостимулятор нервной системы \"Правда\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "JJ_True",
+      "description": "Биологический\tДля нервной системы\tТеперь ты понимаешь, когда человек тебе лжет. Поэтому ты можешь заставить одного человека раз в цикл честно ответить на один твой вопрос \"да\" или \"нет\". Никаких сложносочиненных ответов - только \"да\" или \"нет\"."
+    },
+    "Биостимулятор нервной системы \"Правда-Правда\"": {
+      "name": "Биостимулятор нервной системы \"Правда-Правда\"",
+      "displayString": "Биостимулятор нервной системы \"Правда-Правда\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "JJ_TrueTrue",
+      "description": "Биологический\tДля нервной системы\tТеперь ты понимаешь, когда человек тебе лжет. Поэтому ты можешь заставить людей честно ответить на твой вопрос \"да\" или \"нет\". Никаких сложносочиненных ответов - только \"да\" или \"нет\". Воспользоваться данной способностью ты можешь три раза в цикл (на трех разных людей по одному вопросу, или три вопроса одному человеку, или иной вариант суммарно три вопроса)."
+    },
+    "Кибермодификатор нервной системы \"Мнемоник\"": {
+      "name": "Кибермодификатор нервной системы \"Мнемоник\"",
+      "displayString": "Кибермодификатор нервной системы \"Мнемоник\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "S_Mnemonik",
+      "description": "Кибер\tДля нервной системы"
+    },
+    "Биоимплант Кибержокей": {
+      "name": "Биоимплант Кибержокей",
+      "displayString": "Биоимплант Кибержокей",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_BecomeHacker",
+      "description": "подпольный био\tНервная система\t\nТеперь ты можешь подключаться к киберпространству. Получи у мастеров свой логин."
+    },
+    "Киберимплант Defender1": {
+      "name": "Киберимплант Defender1",
+      "displayString": "Киберимплант Defender1",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "S_Defender1",
+      "description": "Кибер\tНервная система"
+    },
+    "Киберимплант WhiteHat": {
+      "name": "Киберимплант WhiteHat",
+      "displayString": "Киберимплант WhiteHat",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_WhiteHat",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант Defender2": {
+      "name": "Киберимплант Defender2",
+      "displayString": "Киберимплант Defender2",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "S_Defender2",
+      "description": "Кибер\tНервная система"
+    },
+    "Киберимплант WebDoctor": {
+      "name": "Киберимплант WebDoctor",
+      "displayString": "Киберимплант WebDoctor",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_WebDoctor",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант Defender3": {
+      "name": "Киберимплант Defender3",
+      "displayString": "Киберимплант Defender3",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "S_Defender3",
+      "description": "Кибер\tНервная система"
+    },
+    "Киберимплант ShadowCape": {
+      "name": "Киберимплант ShadowCape",
+      "displayString": "Киберимплант ShadowCape",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_ShadowCape",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант Hotdog": {
+      "name": "Киберимплант Hotdog",
+      "displayString": "Киберимплант Hotdog",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_Hotdog",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант Netrunner": {
+      "name": "Киберимплант Netrunner",
+      "displayString": "Киберимплант Netrunner",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_Netrunner",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант Shadowrunner": {
+      "name": "Киберимплант Shadowrunner",
+      "displayString": "Киберимплант Shadowrunner",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_Shadowrunner",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант WizardOfNet": {
+      "name": "Киберимплант WizardOfNet",
+      "displayString": "Киберимплант WizardOfNet",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_WizardOfNet",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант Ghost": {
+      "name": "Киберимплант Ghost",
+      "displayString": "Киберимплант Ghost",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_Ghost",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "Киберимплант ManInTheMiddle": {
+      "name": "Киберимплант ManInTheMiddle",
+      "displayString": "Киберимплант ManInTheMiddle",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "Lab_ManInTheMiddle",
+      "description": "подпольный кибер\tНервная система"
+    },
+    "5_implantbridge": {
+      "name": "5_implantbridge",
+      "displayString": "Нейроимплант \"Инженер\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "5_implantbridge",
+      "description": "Система: nervous\nНейроимплант для инженеров Моста."
+    },
+    "5_implantchaos": {
+      "name": "5_implantchaos",
+      "displayString": "Нейроимплант Eye of the Storm",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "5_implantchaos",
+      "description": "Система: nervous\nНейроимплант Eye of the Storm"
+    },
+    "HeartHealthBooster": {
+      "name": "HeartHealthBooster",
+      "displayString": "Мотор для сердца +2 HP",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "HeartHealthBooster",
+      "description": "Система: CardioSystem\nundefined"
+    },
+    "TestImplant01": {
+      "name": "TestImplant01",
+      "displayString": "Тестовый имплант 01",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "TestImplant01",
+      "description": "Система: CardioSystem\nundefined"
+    },
+    "jj_aggression": {
+      "name": "jj_aggression",
+      "displayString": "Генномодифицированные железы (феромон агрессии)",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_aggression",
+      "description": "Система: lymphatic\nВокруг глаз необходимо сделать ОЧЕНЬ заметный антураж (простой грим, например, имеется на мастерке; ответственная - Катя Кэлпи)."
+    },
+    "jj_agile": {
+      "name": "jj_agile",
+      "displayString": "Клон-сердце \"Живчик\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_agile",
+      "description": "Система: cardiovascular\nТы получаешь +1 нательный хит, пока этот имплант сердца установлен у тебя."
+    },
+    "jj_agile_v2": {
+      "name": "jj_agile_v2",
+      "displayString": "Клон-сердце \"Живчик\" v.2",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_agile_v2",
+      "description": "Система: cardiovascular\nТы получаешь +2 нательных хита, пока этот имплант сердца установлен у тебя."
+    },
+    "jj_agile_v3": {
+      "name": "jj_agile_v3",
+      "displayString": "Клон-сердце \"Живчик\" v.3",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_agile_v3",
+      "description": "Система: cardiovascular\nТы получаешь +3 нательных хита, пока этот имплант сердца установлен у тебя."
+    },
+    "jj_bioair": {
+      "name": "jj_bioair",
+      "displayString": "Клон-легкие \"БиоЭйр\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_bioair",
+      "description": "Система: respiratory\nБиологические искусственные легкие."
+    },
+    "jj_biolymph": {
+      "name": "jj_biolymph",
+      "displayString": "Клон лимфатической системы \"БиоЛимф\" ",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_biolymph",
+      "description": "Система: lymphatic\nПомогает при легком ранении."
+    },
+    "jj_davy": {
+      "name": "jj_davy",
+      "displayString": "Биопротез руки \"Дэйви\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_davy",
+      "description": "Система: musculoskeletal\nБиологический протез руки."
+    },
+    "jj_diamond": {
+      "name": "jj_diamond",
+      "displayString": "Генномодифицированный кожный покров \"Алмаз\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_diamond",
+      "description": "Система: musculoskeletal\nСверхпрочная кожа.\nНа лице, шее, руках и желательно других открытых частях тела необходимо сделать ОЧЕНЬ заметный антураж (выкрасить кожу в белый цвет; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "jj_escalibur": {
+      "name": "jj_escalibur",
+      "displayString": "Виброклинок \"Эскалибур\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_escalibur",
+      "description": "Система: musculoskeletal\nТеперь ты можешь взять и использовать виброклинок (помечен красной лентой)."
+    },
+    "jj_evilqueen": {
+      "name": "jj_evilqueen",
+      "displayString": "Клон-сердце \"Злая королева\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_evilqueen",
+      "description": "Система: cardiovascular\nБиологическое искусственное сердце."
+    },
+    "jj_fear": {
+      "name": "jj_fear",
+      "displayString": "Генномодифицированные железы (феромон страха)",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_fear",
+      "description": "Система: lymphatic\nВокруг глаз необходимо сделать ОЧЕНЬ заметный антураж (простой грим, например, имеется на мастерке; ответственная - Катя Кэлпи)."
+    },
+    "jj_flint": {
+      "name": "jj_flint",
+      "displayString": "Биопротез ноги \"Флинт\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_flint",
+      "description": "Система: musculoskeletal\nБиологический протез ноги."
+    },
+    "jj_fractal": {
+      "name": "jj_fractal",
+      "displayString": "Биостимулятор нервной системы «Фрактал»",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_fractal",
+      "description": "Система: nervous\nC вашим сознанием могут работать по технологии Johnson&Johnson."
+    },
+    "jj_gorgon": {
+      "name": "jj_gorgon",
+      "displayString": "Генномодифицированный глаз \"Горгона\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_gorgon",
+      "description": "Система: nervous\nНа лице необходимо сделать ОЧЕНЬ заметный антураж (очень сильно любым спобосом выделить глаза; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "jj_hercules": {
+      "name": "jj_hercules",
+      "displayString": "Биопротез руки \"Геркулес\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_hercules",
+      "description": "Система: musculoskeletal\nУвеличение физической силы (можешь переносить людей в одиночку)."
+    },
+    "jj_i_am_agender": {
+      "name": "jj_i_am_agender",
+      "displayString": "Биоимплант \"Я вне полов\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_i_am_agender",
+      "description": "Система: endocrine\nТеперь ты не обладаешь признаками пола."
+    },
+    "jj_i_am_boy": {
+      "name": "jj_i_am_boy",
+      "displayString": "Биоимплант \"Я.Мальчик\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_i_am_boy",
+      "description": "Система: endocrine\nТеперь твой биологический пол - мужской. Если пол и был мужским, ничего не происходит."
+    },
+    "jj_i_am_girl": {
+      "name": "jj_i_am_girl",
+      "displayString": "Биоимплант \"Я.Девочка\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_i_am_girl",
+      "description": "Система: endocrine\nТеперь твой биологический пол - женский. Если пол и был женским, ничего не происходит."
+    },
+    "jj_jedi": {
+      "name": "jj_jedi",
+      "displayString": "Клон щитовидной железы \"Джедай\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_jedi",
+      "description": "Система: endocrine\nВосстановление хитов после тяжелого ранения."
+    },
+    "jj_log": {
+      "name": "jj_log",
+      "displayString": "Биостимулятор \"Без чувств\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_log",
+      "description": "Система: nervous\nОблегчает состояние в случае тяжелого ранения."
+    },
+    "jj_logan": {
+      "name": "jj_logan",
+      "displayString": "Протез руки для генномодифицированных людей \"Логан\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_logan",
+      "description": "Система: musculoskeletal\nРука с когтями.\nНа руку необходимо сделать ОЧЕНЬ заметный антураж (например, когти или костевые наросты; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "jj_meditation": {
+      "name": "jj_meditation",
+      "displayString": "Клон щитовидной железы \"Медитация\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_meditation",
+      "description": "Система: endocrine\nВосстановление хитов после тяжелого ранения."
+    },
+    "jj_morpheus": {
+      "name": "jj_morpheus",
+      "displayString": "Генномодифицированные легкие \"Морфей\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_morpheus",
+      "description": "Система: respiratory\nНа подбородке и шее необходимо сделать ОЧЕНЬ заметный антураж (например, нарисовать какой-нибудь витиеватый узор или чешую; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "jj_mucus": {
+      "name": "jj_mucus",
+      "displayString": "Генномодифицированная эндокринная система \"Слизь\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_mucus",
+      "description": "Система: endocrine\nКожа покрывается скользкой слизью.\nНа лице, шее, руках и желательно других открытых частях тела необходимо сделать ОЧЕНЬ заметный и неприятный антураж (выкрасить кожу в зеленый цвет, как минимум; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "jj_node": {
+      "name": "jj_node",
+      "displayString": "Клон лимфатичекой системы \"Узел\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_node",
+      "description": "Система: lymphatic\nБиологическая искусственная лимфатическая система."
+    },
+    "jj_ogre": {
+      "name": "jj_ogre",
+      "displayString": "Биоскелет \"Огр\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_ogre",
+      "description": "Система: musculoskeletal\nДанный имплант дает право носить силовую броню (помечена красным диодом, должна быть согласована с Сергеем Уколовым перед приклеиванием красного диода) и виброклинок (помечен красной лентой, согласование аналогично силовой броне)."
+    },
+    "jj_passion": {
+      "name": "jj_passion",
+      "displayString": "Генномодифицированные железы (феромон страсти)",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_passion",
+      "description": "Система: lymphatic\nВокруг глаз необходимо сделать ОЧЕНЬ заметный антураж (простой грим, например, имеется на мастерке; ответственная - Катя Кэлпи)."
+    },
+    "jj_pliers": {
+      "name": "jj_pliers",
+      "displayString": "Биопротез руки \"Клещи\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_pliers",
+      "description": "Система: musculoskeletal\nМожешь удерживать одного человека. Пока держишь, персонаж не может двигаться, сопротивляться.\n\nЧтобы заявить эффект, произнеси громко \"Удержание\" или \"Удерживаю\"."
+    },
+    "jj_sapphire": {
+      "name": "jj_sapphire",
+      "displayString": "Генномодифицированный кожный покров \"Сапфир\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_sapphire",
+      "description": "Система: musculoskeletal\nСверхпрочная кожа.\nНа лице, шее, руках и желательно других открытых частях тела необходимо сделать ОЧЕНЬ заметный антураж (выкрасить кожу в синий цвет; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "jj_secondbreath": {
+      "name": "jj_secondbreath",
+      "displayString": "Клон легких \"Второе дыхание\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_secondbreath",
+      "description": "Система: respiratory\nОблегчает состояние в случае ранения."
+    },
+    "jj_spine": {
+      "name": "jj_spine",
+      "displayString": "Генномодифицированный кожный покров \"Колючка\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_spine",
+      "description": "Система: musculoskeletal\nКожа, покрытая иглами.\nНа лице, шее и желательно других открытых частях тела необходимо сделать ОЧЕНЬ заметный антураж (например, поставить множество точек на коже; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "jj_superman": {
+      "name": "jj_superman",
+      "displayString": "Биолимфа \"Супермэн\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_superman",
+      "description": "Система: lymphatic\nПока у тебя установлен имплант \"Супермэн\", на тебя не работает эффект \"Добиваю\"."
+    },
+    "jj_sympathy": {
+      "name": "jj_sympathy",
+      "displayString": "Генномодифицированные железы (феромон симпатии)",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_sympathy",
+      "description": "Система: lymphatic\nВокруг глаз необходимо сделать ОЧЕНЬ заметный антураж (простой грим, например, имеется на мастерке; ответственная - Катя Кэлпи)."
+    },
+    "jj_true": {
+      "name": "jj_true",
+      "displayString": "Биостимулятор нервной системы \"Правда\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_true",
+      "description": "Система: nervous\nТеперь ты понимаешь, когда человек тебе лжет. Поэтому ты можешь заставить одного человека раз в цикл честно ответить на один твой вопрос \"да\" или \"нет\". Никаких сложносочиненных ответов - только \"да\" или \"нет\"."
+    },
+    "jj_truetrue": {
+      "name": "jj_truetrue",
+      "displayString": "Биостимулятор нервной системы \"Правда-Правда\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_truetrue",
+      "description": "Система: nervous\nТеперь ты понимаешь, когда человек тебе лжет. Поэтому ты можешь заставить людей честно ответить на твой вопрос \"да\" или \"нет\". Никаких сложносочиненных ответов - только \"да\" или \"нет\". Воспользоваться данной способностью ты можешь три раза в цикл (на трех разных людей по одному вопросу, или три вопроса одному человеку, или иной вариант суммарно три вопроса)."
+    },
+    "jj_ultimasympathy": {
+      "name": "jj_ultimasympathy",
+      "displayString": "Генномодифицированные железы (феромон симпатии 2)",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_ultimasympathy",
+      "description": "Система: lymphatic\nВокруг глаз необходимо сделать ОЧЕНЬ заметный антураж (простой грим, например, имеется на мастерке; ответственная - Катя Кэлпи)."
+    },
+    "jj_walker": {
+      "name": "jj_walker",
+      "displayString": "Биопротез ноги \"Скороход\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_walker",
+      "description": "Система: musculoskeletal\nМожешь \"смыться\" из боя. Для обозначения эффекта подними руку вверх и громко произнеси \"Смываюсь\" или \"Убегаю\"."
+    },
+    "jj_welcomeit": {
+      "name": "jj_welcomeit",
+      "displayString": "Нейросимулятор WelcomeIT",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_welcomeit",
+      "description": "Система: nervous\nТеперь ты можешь подключаться к киберпространству. Получи у мастеров по хакерству свой логин."
+    },
+    "jj_wolverine": {
+      "name": "jj_wolverine",
+      "displayString": "Протез руки для генномодифицированных людей \"Росомаха\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_wolverine",
+      "description": "Система: musculoskeletal\nРука с когтями. \nНа руку необходимо сделать ОЧЕНЬ заметный антураж (например, когти или костевые наросты; простой грим, например, имеется на мастерке, ответственная - Катя Кэлпи)."
+    },
+    "lab_adrenaline": {
+      "name": "lab_adrenaline",
+      "displayString": "Киберинжектор \"Не сегодня\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_adrenaline",
+      "description": "Система: cardiovascular\nВозможность выжить после первого \"Добиваю\" в бою."
+    },
+    "lab_agile_v3": {
+      "name": "lab_agile_v3",
+      "displayString": "Клон-сердце \"Живехонек\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_agile_v3",
+      "description": "Система: cardiovascular\nТы получаешь +3 нательных хита, пока этот имплант сердца установлен у тебя."
+    },
+    "lab_apple": {
+      "name": "lab_apple",
+      "displayString": "Биоимплант \"Молодильное яблоко\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_apple",
+      "description": "Система: lymphatic\nБиологический омолаживающий имплант."
+    },
+    "lab_assassin2000": {
+      "name": "lab_assassin2000",
+      "displayString": "Виброклинок \"Хищник\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_assassin2000",
+      "description": "Система: musculoskeletal\nТеперь ты можешь взять и использовать виброклинок (помечен красной лентой)."
+    },
+    "lab_basekit2000": {
+      "name": "lab_basekit2000",
+      "displayString": "Хакерский набор кибержокея",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_basekit2000",
+      "description": "Система: nervous\nКомплекс полезных функций для VR."
+    },
+    "lab_becomehacker": {
+      "name": "lab_becomehacker",
+      "displayString": "Биоимплант Кибержокей",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_becomehacker",
+      "description": "Система: nervous\nТеперь ты можешь подключаться к киберпространству. Получи у мастеров свой логин."
+    },
+    "lab_billy": {
+      "name": "lab_billy",
+      "displayString": "Клон лимфатической системы \"Билли\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_billy",
+      "description": "Система: lymphatic\nБиологическая искусственная лимфатическая система."
+    },
+    "lab_courier": {
+      "name": "lab_courier",
+      "displayString": "Киберпротез руки или ноги \"Курьер\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_courier",
+      "description": "Система: musculoskeletal\nТеперь ты имеешь право носить на себе сумку, которая будет отыгрывать скрытую в протезе полость, невидимую для остальных. Складывать в нее можно только неодушевленные предметы небольшого размера (которые помещаются в сумку).\nСкладывать в эту полость (сумку) вещи имеет право только носитель импланта.\nДоставать эти вещи имеет право только получатель посылки.\nПосредством операции или при помощи рипомэна вскрыть полость нельзя. \nВзломать данную полость нельзя."
+    },
+    "lab_crutch": {
+      "name": "lab_crutch",
+      "displayString": "Киберпротез ноги \"Костыль\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_crutch",
+      "description": "Система: musculoskeletal\nКибернетический протез ноги."
+    },
+    "lab_cube": {
+      "name": "lab_cube",
+      "displayString": "Киберлегкие \"Куб\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_cube",
+      "description": "Система: respiratory\nКибернетические искусственные легкие."
+    },
+    "lab_cyberg0": {
+      "name": "lab_cyberg0",
+      "displayString": "Мозговой имплант \"Страна игр\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_cyberg0",
+      "description": "Система: nervous\nУвеличение максимального времени в VR."
+    },
+    "lab_dumbo": {
+      "name": "lab_dumbo",
+      "displayString": "Биоухо \"Дамбо\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_dumbo",
+      "description": "Система: nervous\nБиологический слуховой протез."
+    },
+    "lab_fury": {
+      "name": "lab_fury",
+      "displayString": "Киберглаз \"Фьюри\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_fury",
+      "description": "Система: nervous\nКибернетический искусственный глаз."
+    },
+    "lab_ghost": {
+      "name": "lab_ghost",
+      "displayString": "Киберимплант Ghost",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_ghost",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси. Уменьшает locktime узла."
+    },
+    "lab_grip": {
+      "name": "lab_grip",
+      "displayString": "Киберпротез руки \"Захватчик\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_grip",
+      "description": "Система: musculoskeletal\nМожешь двумя руками за плечи удерживать одного человека. Пока держишь, человек не может двигаться, сопротивляться. \nЧтобы заявить эффект, произнеси громко \"Удержание\" или \"Удерживаю\"."
+    },
+    "lab_hercules": {
+      "name": "lab_hercules",
+      "displayString": "Биопротез руки \"Геракл 3000\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_hercules",
+      "description": "Система: musculoskeletal\nУвеличение физической силы (можешь переносить людей в одиночку)."
+    },
+    "lab_highcity": {
+      "name": "lab_highcity",
+      "displayString": ".the.product",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_highcity",
+      "description": "Система: nervous\nПовышение защитных характеристик в VR."
+    },
+    "lab_highcity2": {
+      "name": "lab_highcity2",
+      "displayString": ".the.product.2",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_highcity2",
+      "description": "Система: nervous\nПовышение защитных характеристик в VR."
+    },
+    "lab_hook": {
+      "name": "lab_hook",
+      "displayString": "Биопротез руки \"Крюк\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_hook",
+      "description": "Система: musculoskeletal\nБиологический протез руки."
+    },
+    "lab_hotdog": {
+      "name": "lab_hotdog",
+      "displayString": "Киберимплант Hotdog",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_hotdog",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси"
+    },
+    "lab_i_am_agender": {
+      "name": "lab_i_am_agender",
+      "displayString": "Биоимплант \"Я выше полов\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_i_am_agender",
+      "description": "Система: endocrine\nТеперь ты не обладаешь признаками пола."
+    },
+    "lab_i_am_boy": {
+      "name": "lab_i_am_boy",
+      "displayString": "Биоимплант \"Я не мальчик, но муж\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_i_am_boy",
+      "description": "Система: endocrine\nТеперь твой биологический пол - мужской. Если пол и был мужским, ничего не происходит."
+    },
+    "lab_i_am_girl": {
+      "name": "lab_i_am_girl",
+      "displayString": "Биоимплант \"Я не девочка, но женщина\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_i_am_girl",
+      "description": "Система: endocrine\nТеперь твой биологический пол - женский. Если пол и был женским, ничего не происходит."
+    },
+    "lab_jewishpower": {
+      "name": "lab_jewishpower",
+      "displayString": "Экзоскелет \"Еврейская сила\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_jewishpower",
+      "description": "Система: musculoskeletal\nДанный имплант дает право носить силовую броню (помечена красным диодом, должна быть согласована с Сергеем Уколовым перед приклеиванием красного диода) и виброклинок (помечен красной лентой, согласование аналогично силовой броне)."
+    },
+    "lab_l33tsk1llz": {
+      "name": "lab_l33tsk1llz",
+      "displayString": "Киберимплант L33tSk1llz",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_l33tsk1llz",
+      "description": "Система: nervous\nУвеличивает максимальный прокси уровень."
+    },
+    "lab_log": {
+      "name": "lab_log",
+      "displayString": "Биостимулятор \"Без эмоций\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_log",
+      "description": "Система: nervous\nОблегчает состояние в случае тяжелого ранения."
+    },
+    "lab_lover": {
+      "name": "lab_lover",
+      "displayString": "Клон-сердце \"Лавер\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_lover",
+      "description": "Система: cardiovascular\nБиологическое искусственное сердце."
+    },
+    "lab_lymphotic": {
+      "name": "lab_lymphotic",
+      "displayString": "Киберлимфа \"Лимфотик\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_lymphotic",
+      "description": "Система: lymphatic\nКибернетическая искусственная лимфа."
+    },
+    "lab_maninthemiddle": {
+      "name": "lab_maninthemiddle",
+      "displayString": "Киберимплант ManInTheMiddle",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_maninthemiddle",
+      "description": "Система: nervous\nУвеличивает максимальный прокси уровень."
+    },
+    "lab_memorycard": {
+      "name": "lab_memorycard",
+      "displayString": "Нейроимплант Memory Card",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_memorycard",
+      "description": "Система: nervous\nРасширение возможностей памяти."
+    },
+    "lab_midas": {
+      "name": "lab_midas",
+      "displayString": "Киберпротез руки \"Мидас\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_midas",
+      "description": "Система: musculoskeletal\nКибернетический протез руки."
+    },
+    "lab_momotaro": {
+      "name": "lab_momotaro",
+      "displayString": "Киберпротез руки или ноги \"Кевлар\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_momotaro",
+      "description": "Система: musculoskeletal\nИммунитет к попаданию холодным оружием в установленный протез \"Момотаро\"."
+    },
+    "lab_netrunner": {
+      "name": "lab_netrunner",
+      "displayString": "Киберимплант Netrunner",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_netrunner",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси"
+    },
+    "lab_safecracker": {
+      "name": "lab_safecracker",
+      "displayString": "Киберпротез руки \"Домушник\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_safecracker",
+      "description": "Система: musculoskeletal\nПозволяет быстро и бесшумно взламывать двери и замки."
+    },
+    "lab_shadowcape": {
+      "name": "lab_shadowcape",
+      "displayString": "Киберимплант ShadowCape",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_shadowcape",
+      "description": "Система: nervous\nУменьшает locktime узла"
+    },
+    "lab_shadowrunner": {
+      "name": "lab_shadowrunner",
+      "displayString": "Киберимплант Shadowrunner",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_shadowrunner",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси"
+    },
+    "lab_shield": {
+      "name": "lab_shield",
+      "displayString": "Киберщитовидка \"Щит\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_shield",
+      "description": "Система: endocrine\nКибернетический имплант, ограничивающий тягу к алкоголю."
+    },
+    "lab_stun_gun": {
+      "name": "lab_stun_gun",
+      "displayString": "Киберпротез руки \"Электрошокер\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_stun_gun",
+      "description": "Система: musculoskeletal\nТеперь прикосновение руки с протезом \"Электрошокер\" работает аналогично электрошокеру. \nЧтобы заявить эффект, произнеси громко \"Электрошокер\"."
+    },
+    "lab_supersoldier": {
+      "name": "lab_supersoldier",
+      "displayString": "Клон сердца \"Суперпацан\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_supersoldier",
+      "description": "Система: cardiovascular\nДобавление 2 HP (нательные хиты) к MaxHP, но не более 6."
+    },
+    "lab_webdoctor": {
+      "name": "lab_webdoctor",
+      "displayString": "Киберимплант WebDoctor",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_webdoctor",
+      "description": "Система: nervous\nУменьшает locktime узла"
+    },
+    "lab_whitehat": {
+      "name": "lab_whitehat",
+      "displayString": "Киберимплант WhiteHat",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_whitehat",
+      "description": "Система: nervous\nУменьшает locktime узла"
+    },
+    "lab_wizardofnet": {
+      "name": "lab_wizardofnet",
+      "displayString": "Киберимплант WizardOfNet",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_wizardofnet",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси. Уменьшает locktime узла."
+    },
+    "lab_yag": {
+      "name": "lab_yag",
+      "displayString": "Биопротез ноги \"Яг\"",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_yag",
+      "description": "Система: musculoskeletal\nБиологический протез ноги."
+    },
+    "pa_basefightkit": {
+      "name": "pa_basefightkit",
+      "displayString": "Аггрессивный антивирус",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_basefightkit",
+      "description": "Система: nervous\nПовышение боевых характеристик в VR."
+    },
+    "pa_basekit": {
+      "name": "pa_basekit",
+      "displayString": "Джентельменский набор кибержокея",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_basekit",
+      "description": "Система: nervous\nКомплекс полезных опций для VR."
+    },
+    "pa_blackhat": {
+      "name": "pa_blackhat",
+      "displayString": "Специмплант BlackHat",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_blackhat",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси"
+    },
+    "pa_casualhijacker": {
+      "name": "pa_casualhijacker",
+      "displayString": "Специмплант CasualHijacker",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_casualhijacker",
+      "description": "Система: nervous\nУвеличивает максимальный прокси уровень."
+    },
+    "pa_cyberg0": {
+      "name": "pa_cyberg0",
+      "displayString": "Мозговой имплант \"КиберГеймер 0\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_cyberg0",
+      "description": "Система: nervous\nУвеличение максимального времени в VR."
+    },
+    "pa_cyberg1": {
+      "name": "pa_cyberg1",
+      "displayString": "Мозговой имплант \"КиберГеймер 1\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_cyberg1",
+      "description": "Система: nervous\nУвеличение максимального времени в VR."
+    },
+    "pa_friendin1": {
+      "name": "pa_friendin1",
+      "displayString": "Мозговой имплант \"Друг с тобой 1\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_friendin1",
+      "description": "Система: nervous\nТехнология связи мозг-мозг. Ты можешь передавать любому человеку с имплантом типа \"Друг с тобой\" одно значимое воспоминание (из кубиков) не чаще 1 раза в час или 1 сообщение длиной до 5 слов не чаще 1 раза в 10 минут. Для установления связи нужно согласие всех участников."
+    },
+    "pa_friendin2": {
+      "name": "pa_friendin2",
+      "displayString": "ba",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_friendin2",
+      "description": "Система: nervous\nТехнология связи мозг-мозг. Ты можешь передавать любому человеку (любому количеству людей) с имплантом типа \"Друг с тобой\" любое количество сообщений длиной до 10 слов. Также ты можешь передавать значимые воспоминания (из кубиков). Для установления связи нужно согласие всех участников."
+    },
+    "pa_friendin3": {
+      "name": "pa_friendin3",
+      "displayString": "Мозговой имплант \"Друг с тобой 3\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_friendin3",
+      "description": "Система: nervous\nТы можешь управлять суррогатом откуда угодно, без специальной капсулы."
+    },
+    "pa_friendin4": {
+      "name": "pa_friendin4",
+      "displayString": "Мозговой имплант \"Друг с тобой 4\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_friendin4",
+      "description": "Система: nervous\nТехнология связи мозг-мозг. Ты можешь постоянно поддерживать контакт с людьми с имплантом типа \"Друг с тобой\". Имплант \"Друг с тобой 4\" повзоляет носителям свободно обмениваться любой информацией, мыслями, чувствами, воспоминаниями. Для установления связи нужно согласие всех участников."
+    },
+    "pa_goldenfightkit": {
+      "name": "pa_goldenfightkit",
+      "displayString": "Агрессивный антивирус 3.5 Version Apollo",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_goldenfightkit",
+      "description": "Система: nervous\nПовышение боевых характеристик в VR."
+    },
+    "pa_goldenkit": {
+      "name": "pa_goldenkit",
+      "displayString": "Джентельменский набор кибержокея 3000 Pro",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_goldenkit",
+      "description": "Система: nervous\nПремиальный комплекс полезных опций для VR."
+    },
+    "pa_grayhat": {
+      "name": "pa_grayhat",
+      "displayString": "Специмплант GrayHat",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_grayhat",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси"
+    },
+    "pa_masterhacker": {
+      "name": "pa_masterhacker",
+      "displayString": "Специмплант MasterHacker",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_masterhacker",
+      "description": "Система: nervous\nУвеличивает максимальный прокси уровень."
+    },
+    "pa_mrsmith": {
+      "name": "pa_mrsmith",
+      "displayString": "Специмплант MrSmith",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_mrsmith",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси"
+    },
+    "pa_patriot": {
+      "name": "pa_patriot",
+      "displayString": "Мозговой имплант \"Патриот\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_patriot",
+      "description": "Система: nervous\nC вашим сознанием могут работать по технологии PanAm."
+    },
+    "pa_super": {
+      "name": "pa_super",
+      "displayString": "terminal",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_super",
+      "description": "Система: nervous\nПовышение защитных характеристик в VR."
+    },
+    "pa_upgradedfightkit": {
+      "name": "pa_upgradedfightkit",
+      "displayString": "Агрессивный антивирус 2.3 Version E",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_upgradedfightkit",
+      "description": "Система: nervous\nПовышение боевых характеристик в VR."
+    },
+    "pa_upgradedkit": {
+      "name": "pa_upgradedkit",
+      "displayString": "Джентельменский набор кибержокея 3000",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_upgradedkit",
+      "description": "Система: nervous\nУлучшенный комплекс полезных опций для VR."
+    },
+    "pa_vrfanat": {
+      "name": "pa_vrfanat",
+      "displayString": "Нейроинтерфейс к VR Titan 500",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_vrfanat",
+      "description": "Система: nervous\nУвеличение максимального времени в VR."
+    },
+    "pa_vrmobilepoint": {
+      "name": "pa_vrmobilepoint",
+      "displayString": "Мобильная точка захода в VR",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_vrmobilepoint",
+      "description": "Система: nervous\nМожешь заходить в VR из любого места, где тебя никто не видит. Для этого достаточно незаметно надеть синюю ленту и идти в VR. Выйти можно только, если вы можете свободно выйти на улицу (вас не заперли, не удерживают, и т.д.)"
+    },
+    "pa_vrresident": {
+      "name": "pa_vrresident",
+      "displayString": "Джентельменский набор Smart Galaxy 2",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_vrresident",
+      "description": "Система: nervous\nНа тебя не действуют ограничения времени в VR."
+    },
+    "pa_vrvisitor": {
+      "name": "pa_vrvisitor",
+      "displayString": "Нейроинтерфейс к VR Galaxy",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "pa_vrvisitor",
+      "description": "Система: nervous\nУвеличение максимального времени в VR."
+    },
+    "s_adamj": {
+      "name": "s_adamj",
+      "displayString": "Экзоскелет \"Адам Дженсен\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_adamj",
+      "description": "Система: musculoskeletal\nДанный имплант дает право носить силовую броню (помечена красным диодом, должна быть согласована с Сергеем Уколовым перед приклеиванием красного диода) и виброклинок (помечен красной лентой, согласование аналогично силовой броне)"
+    },
+    "s_adamj_v2": {
+      "name": "s_adamj_v2",
+      "displayString": "Экзоскелет \"Адам Дженсен\" v.2",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_adamj_v2",
+      "description": "Система: musculoskeletal\nДанный имплант дает право носить силовую броню (помечена красным диодом, должна быть согласована с Сергеем Уколовым перед приклеиванием красного диода) и виброклинок (помечен красной лентой, согласование аналогично силовой броне). \nСиловая броня дает не +2, а +3 хита."
+    },
+    "s_adamj_v3": {
+      "name": "s_adamj_v3",
+      "displayString": "Экзоскелет \"Адам Дженсен\" v.3",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_adamj_v3",
+      "description": "Система: musculoskeletal\nДанный имплант дает право носить силовую броню (помечена красным диодом, должна быть согласована с Сергеем Уколовым перед приклеиванием красного диода) и виброклинок (помечен красной лентой, согласование аналогично силовой броне). Если носишь силовую броню, начинаешь прихрамывать.\nСиловая броня дает не +2, а +4 хита."
+    },
+    "s_adrenaline": {
+      "name": "s_adrenaline",
+      "displayString": "Киберинжектор \"Адреналин\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_adrenaline",
+      "description": "Система: cardiovascular\nПервое \"Добиваю\" в бою на тебя не действует."
+    },
+    "s_anesthetic": {
+      "name": "s_anesthetic",
+      "displayString": "Киберинжектор \"Анастетик\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_anesthetic",
+      "description": "Система: nervous\nОблегчает состояние в случае тяжелого ранения."
+    },
+    "s_assassin": {
+      "name": "s_assassin",
+      "displayString": "Виброклинок \"Ассасин\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_assassin",
+      "description": "Система: musculoskeletal\nТеперь ты можешь взять и использовать виброклинок (помечен красной лентой)."
+    },
+    "s_bodybuilder": {
+      "name": "s_bodybuilder",
+      "displayString": "Киберпротез руки \"Культурист\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_bodybuilder",
+      "description": "Система: musculoskeletal\nУвеличение физической силы (можешь переносить людей в одиночку)."
+    },
+    "s_deadly_grip": {
+      "name": "s_deadly_grip",
+      "displayString": "Киберпротез руки \"Смертельная хватка\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_deadly_grip",
+      "description": "Система: musculoskeletal\nМожешь удерживать другого человека. Пока держишь, персонаж не может двигаться, сопротивляться.\nЧтобы заявить эффект, произнеси громко \"Удержание\" или \"Удерживаю\"."
+    },
+    "s_defender1": {
+      "name": "s_defender1",
+      "displayString": "Киберимплант Defender1",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_defender1",
+      "description": "Система: nervous\nУменьшает locktime узла"
+    },
+    "s_defender2": {
+      "name": "s_defender2",
+      "displayString": "Киберимплант Defender2",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_defender2",
+      "description": "Система: nervous\nУменьшает locktime узла"
+    },
+    "s_defender3": {
+      "name": "s_defender3",
+      "displayString": "Киберимплант Defender3",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_defender3",
+      "description": "Система: nervous\nУменьшает locktime узла"
+    },
+    "s_explorer": {
+      "name": "s_explorer",
+      "displayString": "Киберлимфа \"Проводник\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_explorer",
+      "description": "Система: lymphatic\nТеперь электрошокер на тебя не действует."
+    },
+    "s_frost": {
+      "name": "s_frost",
+      "displayString": "Киберинжектор \"Заморозка\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_frost",
+      "description": "Система: respiratory\nОблегчает состояние в случае ранения."
+    },
+    "s_fudzin": {
+      "name": "s_fudzin",
+      "displayString": "Киберлегкие \"Фудзин\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_fudzin",
+      "description": "Система: respiratory\nКибернетические искусственные легкие."
+    },
+    "s_inari": {
+      "name": "s_inari",
+      "displayString": "Киберщитовидка \"Инари\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_inari",
+      "description": "Система: endocrine\nКибрнетический имплант-контрацептив (не можешь зачать)."
+    },
+    "s_iron": {
+      "name": "s_iron",
+      "displayString": "Киберпротез руки \"Айрон\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_iron",
+      "description": "Система: musculoskeletal\nКибернетический протез руки."
+    },
+    "s_key": {
+      "name": "s_key",
+      "displayString": "Киберпротез руки \"Ключ\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_key",
+      "description": "Система: musculoskeletal\nПозволяет быстро и бесшумно взламывать двери и замки."
+    },
+    "s_liar": {
+      "name": "s_liar",
+      "displayString": "Киберстимулятор нервной системы \"Лжец\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_liar",
+      "description": "Система: nervous\nТвои аналитические способности повысились, ты явно видишь, когда человек тебе лжет. Поэтому ты можешь, задав вопрос и получив ответ, спросить \"Ответил ли ты мне честно\" и человек обязан будет тебе ответить честно, соврал или нет."
+    },
+    "s_lifo": {
+      "name": "s_lifo",
+      "displayString": "Киберлимфа \"Лифо\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_lifo",
+      "description": "Система: lymphatic\nКибернетическая искусственная лимфа."
+    },
+    "s_mnemonik": {
+      "name": "s_mnemonik",
+      "displayString": "Кибермодификатор нервной системы \"Мнемоник\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_mnemonik",
+      "description": "Система: nervous\nРасширение возможностей памяти."
+    },
+    "s_momotaro": {
+      "name": "s_momotaro",
+      "displayString": "Киберпротез руки или ноги \"Момотаро\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_momotaro",
+      "description": "Система: musculoskeletal\nИммунитет к попаданию холодным оружием в установленный протез \"Момотаро\"."
+    },
+    "s_orphey": {
+      "name": "s_orphey",
+      "displayString": "Киберпротез руки «Орфей»",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_orphey",
+      "description": "Система: musculoskeletal\nДобавление 1 HP (нательный хит), но не более 6."
+    },
+    "s_recovery": {
+      "name": "s_recovery",
+      "displayString": "Киберинжектор \"Восстановление\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_recovery",
+      "description": "Система: endocrine\nПри легком ранении хиты автоматически не теряются, а восстанавливаются с указанной скоростью (вне боевки)."
+    },
+    "s_snow": {
+      "name": "s_snow",
+      "displayString": "Киберстимулятор нервной системы «Снежинка»",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_snow",
+      "description": "Система: nervous\nC вашим сознанием могут работать по технологии Арасака (Serenity)."
+    },
+    "s_stability": {
+      "name": "s_stability",
+      "displayString": "Киберпротез ноги «Стабильность»",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_stability",
+      "description": "Система: musculoskeletal\nКибернетический протез ноги."
+    },
+    "s_steelheart": {
+      "name": "s_steelheart",
+      "displayString": "Киберсердце «Железный дровосек» ",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_steelheart",
+      "description": "Система: cardiovascular\nКибернетическое искусственное сердце."
+    },
+    "s_stun_gun": {
+      "name": "s_stun_gun",
+      "displayString": "Киберпротез руки \"Электрошокер\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_stun_gun",
+      "description": "Система: musculoskeletal\nТеперь прикосновение руки с протезом \"Электрошокер\" работает аналогично электрошокеру. \nЧтобы заявить эффект, произнеси громко \"Электрошокер\"."
+    },
+    "s_technogod": {
+      "name": "s_technogod",
+      "displayString": "Мозговой инжектор \"Технобог\"",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "s_technogod",
+      "description": "Система: nervous\nПока у тебя установлен имплант \"Технобог\", на тебя не работает эффект \"Добиваю\"."
+    },
+    "x_ghost": {
+      "name": "x_ghost",
+      "displayString": "Имплант нервной системы \"Призрак\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_ghost",
+      "description": "Система: nervous\nТвое лицо изуродовано до неузнаваемости."
+    },
+    "x_grip": {
+      "name": "x_grip",
+      "displayString": "Киберпротез руки \"Захват\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_grip",
+      "description": "Система: musculoskeletal\nМожешь двумя руками за плечи удерживать одного человека. Пока держишь, человек не может двигаться, сопротивляться. \nЧтобы заявить эффект, произнеси громко \"Удержание\" или \"Удерживаю\"."
+    },
+    "x_ice": {
+      "name": "x_ice",
+      "displayString": "Киберинжектор \"Айс\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_ice",
+      "description": "Система: nervous\nОблегчает состояние в случае ранения."
+    },
+    "x_rip": {
+      "name": "x_rip",
+      "displayString": "Киберпротез руки \"R.I.P.\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_rip",
+      "description": "Система: musculoskeletal\nКиберпротез \"R.I.P.\" непобираем, снять его с тебя нельзя.\nС данной технологией ты можешь изымать у любого человека установленные импланты (кроме аналогичного \"R.I.P.\"). Для этого человек должен быть или без сознания, или обездвижен, или в тяжране, или находиться в операционной капсуле.\nКиберпротез \"R.I.P.\" позволяет сохранить полный набор имплантов всех систем (то есть единовременно можно хранить по одному импланту сердечно-сосудистой, дыхательной, эндокринной, лимфатической систем и по два импланта опорно-двигательной и нервной систем). Подойди к мастерам за уточнениями моделирования."
+    },
+    "x_safecracker": {
+      "name": "x_safecracker",
+      "displayString": "Киберпротез руки \"Медвежатник\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_safecracker",
+      "description": "Система: musculoskeletal\nПозволяет быстро и бесшумно взламывать двери и замки."
+    },
+    "x_strong": {
+      "name": "x_strong",
+      "displayString": "Киберпротез руки \"Стронг\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_strong",
+      "description": "Система: musculoskeletal\nУвеличение физической силы (можешь переносить людей в одиночку)."
+    },
+    "x_supersoldier": {
+      "name": "x_supersoldier",
+      "displayString": "Клон сердца \"Суперсолдат\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_supersoldier",
+      "description": "Система: cardiovascular\nДобавление 2 HP (нательные хиты) к MaxHP, но не более 6."
+    },
+    "jj_biorouter": {
+      "name": "jj_biorouter",
+      "displayString": "Нейростимулятор BioRouter",
+      "isPhysical": false,
+      "resourceCost": 4,
+      "apiKey": "jj_biorouter",
+      "description": "Система: nervous\nУвеличивает скорость восстановления прокси"
+    },
+    "lab_basefightkit": {
+      "name": "lab_basefightkit",
+      "displayString": "Агрессивный антивирус 3000X",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_basefightkit",
+      "description": "Система: nervous\nПовышение боевых характеристик в VR."
+    },
+    "lab_goldenfightkit": {
+      "name": "lab_goldenfightkit",
+      "displayString": "Агрессивный антивирус 3.5 Version Apollo Cracked",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_goldenfightkit",
+      "description": "Система: nervous\nПовышение боевых характеристик в VR."
+    },
+    "lab_upgradedfightkit": {
+      "name": "lab_upgradedfightkit",
+      "displayString": "Агрессивный антивирус 2.3 Version E Cracked",
+      "isPhysical": false,
+      "resourceCost": 1,
+      "apiKey": "lab_upgradedfightkit",
+      "description": "Система: nervous\nПовышение боевых характеристик в VR."
+    },
+    "mindcubes_showdata": {
+      "name": "mindcubes_showdata",
+      "displayString": "internal mind cube conditions modifier",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "mindcubes_showdata",
+      "description": "Система: undefined\nundefined"
+    },
+    "DS1": {
+      "name": "DS1",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "DS1",
+      "description": ""
+    },
+    "DS2": {
+      "name": "DS2",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "DS2",
+      "description": ""
+    },
+    "DS4": {
+      "name": "DS4",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "DS4",
+      "description": ""
+    },
+    "DS5": {
+      "name": "DS5",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "DS5",
+      "description": ""
+    },
+    "DS6": {
+      "name": "DS6",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "DS6",
+      "description": ""
+    },
+    "ES1": {
+      "name": "ES1",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ES1",
+      "description": ""
+    },
+    "ES2": {
+      "name": "ES2",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ES2",
+      "description": ""
+    },
+    "ES3": {
+      "name": "ES3",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ES3",
+      "description": ""
+    },
+    "ES5": {
+      "name": "ES5",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ES5",
+      "description": ""
+    },
+    "ES6": {
+      "name": "ES6",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ES6",
+      "description": ""
+    },
+    "FirstAid1": {
+      "name": "FirstAid1",
+      "displayString": "Лекарство от легкого ранения \"Первая помощь 1\"",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "FirstAid1",
+      "description": ""
+    },
+    "FirstAid2": {
+      "name": "FirstAid2",
+      "displayString": "Лекарство от легкого ранения \"Первая помощь 2\"",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "FirstAid2",
+      "description": ""
+    },
+    "FirstAid3": {
+      "name": "FirstAid3",
+      "displayString": "Лекарство от легкого ранения \"Первая помощь 3\"",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "FirstAid3",
+      "description": ""
+    },
+    "FirstAid4": {
+      "name": "FirstAid4",
+      "displayString": "Лекарство от легкого ранения \"Первая помощь 4\"",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "FirstAid4",
+      "description": ""
+    },
+    "FirstAid5": {
+      "name": "FirstAid5",
+      "displayString": "Лекарство от легкого ранения \"Первая помощь 5\"",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "FirstAid5",
+      "description": ""
+    },
+    "FirstAid6": {
+      "name": "FirstAid6",
+      "displayString": "Лекарство от легкого ранения \"Первая помощь 6\"",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "FirstAid6",
+      "description": ""
+    },
+    "LS1": {
+      "name": "LS1",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "LS1",
+      "description": ""
+    },
+    "LS2": {
+      "name": "LS2",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "LS2",
+      "description": ""
+    },
+    "LS3": {
+      "name": "LS3",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "LS3",
+      "description": ""
+    },
+    "LS4": {
+      "name": "LS4",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "LS4",
+      "description": ""
+    },
+    "LS6": {
+      "name": "LS6",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "LS6",
+      "description": ""
+    },
+    "LastChance": {
+      "name": "LastChance",
+      "displayString": "Лекарство от тяжелого ранения \"Последний шанс\"",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "LastChance",
+      "description": ""
+    },
+    "NS1": {
+      "name": "NS1",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "NS1",
+      "description": ""
+    },
+    "NS2": {
+      "name": "NS2",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "NS2",
+      "description": ""
+    },
+    "NS3": {
+      "name": "NS3",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "NS3",
+      "description": ""
+    },
+    "NS4": {
+      "name": "NS4",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "NS4",
+      "description": ""
+    },
+    "NS6": {
+      "name": "NS6",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "NS6",
+      "description": ""
+    },
+    "ODS2": {
+      "name": "ODS2",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ODS2",
+      "description": ""
+    },
+    "ODS3": {
+      "name": "ODS3",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ODS3",
+      "description": ""
+    },
+    "ODS4": {
+      "name": "ODS4",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ODS4",
+      "description": ""
+    },
+    "ODS5": {
+      "name": "ODS5",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ODS5",
+      "description": ""
+    },
+    "ODS6": {
+      "name": "ODS6",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ODS6",
+      "description": ""
+    },
+    "S100": {
+      "name": "S100",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S100",
+      "description": ""
+    },
+    "S101": {
+      "name": "S101",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S101",
+      "description": ""
+    },
+    "S102": {
+      "name": "S102",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S102",
+      "description": ""
+    },
+    "S103": {
+      "name": "S103",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S103",
+      "description": ""
+    },
+    "S104": {
+      "name": "S104",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S104",
+      "description": ""
+    },
+    "S110": {
+      "name": "S110",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S110",
+      "description": ""
+    },
+    "S111": {
+      "name": "S111",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S111",
+      "description": ""
+    },
+    "S112": {
+      "name": "S112",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S112",
+      "description": ""
+    },
+    "S113": {
+      "name": "S113",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S113",
+      "description": ""
+    },
+    "S114": {
+      "name": "S114",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S114",
+      "description": ""
+    },
+    "S120": {
+      "name": "S120",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S120",
+      "description": ""
+    },
+    "S121": {
+      "name": "S121",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S121",
+      "description": ""
+    },
+    "S122": {
+      "name": "S122",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S122",
+      "description": ""
+    },
+    "S123": {
+      "name": "S123",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S123",
+      "description": ""
+    },
+    "S124": {
+      "name": "S124",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S124",
+      "description": ""
+    },
+    "S70": {
+      "name": "S70",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S70",
+      "description": ""
+    },
+    "S71": {
+      "name": "S71",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S71",
+      "description": ""
+    },
+    "S72": {
+      "name": "S72",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S72",
+      "description": ""
+    },
+    "S73": {
+      "name": "S73",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S73",
+      "description": ""
+    },
+    "S74": {
+      "name": "S74",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S74",
+      "description": ""
+    },
+    "S80": {
+      "name": "S80",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S80",
+      "description": ""
+    },
+    "S81": {
+      "name": "S81",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S81",
+      "description": ""
+    },
+    "S82": {
+      "name": "S82",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S82",
+      "description": ""
+    },
+    "S83": {
+      "name": "S83",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S83",
+      "description": ""
+    },
+    "S84": {
+      "name": "S84",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S84",
+      "description": ""
+    },
+    "S90": {
+      "name": "S90",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S90",
+      "description": ""
+    },
+    "S91": {
+      "name": "S91",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S91",
+      "description": ""
+    },
+    "S92": {
+      "name": "S92",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S92",
+      "description": ""
+    },
+    "S93": {
+      "name": "S93",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S93",
+      "description": ""
+    },
+    "S94": {
+      "name": "S94",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "S94",
+      "description": ""
+    },
+    "SSS1": {
+      "name": "SSS1",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "SSS1",
+      "description": ""
+    },
+    "SSS3": {
+      "name": "SSS3",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "SSS3",
+      "description": ""
+    },
+    "SSS4": {
+      "name": "SSS4",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "SSS4",
+      "description": ""
+    },
+    "SSS5": {
+      "name": "SSS5",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "SSS5",
+      "description": ""
+    },
+    "SSS6": {
+      "name": "SSS6",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "SSS6",
+      "description": ""
+    },
+    "altnarco": {
+      "name": "altnarco",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "altnarco",
+      "description": "Корпоративная жизнь выстраивается в лабиринт вокруг тебя? Чувствуешь себя мелкой рыбой среди акул сети? Хватит позволять самому себе быть мягким и беззащитным. Прими 'Дель' и запомни, что иногда стоит бить первым.",
+      "displayString": "Дель"
+    },
+    "altnarco_with_pushback": {
+      "name": "altnarco_with_pushback",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "altnarco_with_pushback",
+      "description": "",
+      "displayString": ""
+    },
+    "apollo-berserk-pill": {
+      "name": "apollo-berserk-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "apollo-berserk-pill",
+      "description": "Дружина Иисуса была невелика - всего 13 войинов. Но все они были киберпротезированными берсерками и принимали 'Дружщие Кибер-Христос'. Поэтому они были непобедимы. ",
+      "displayString": "Дружщие Кибер-Христос"
+    },
+    "apollo-freeze-pill": {
+      "name": "apollo-freeze-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "apollo-freeze-pill",
+      "description": "Может ли наша таблетка зажитить тебя от дырок в животе на перестрелке? Ты серьезно? Конечно нет. Позволит ли он тебе уйти на своих двоих? Да, черт возьми!",
+      "displayString": "Безболь"
+    },
+    "apollo-geracle-pill": {
+      "name": "apollo-geracle-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "apollo-geracle-pill",
+      "description": "Неожиданные ограничения подвижности? Держу пари, твой парнер будет приятно удивлен, когда ты разорвешь веревку или наручники голыми руками. Примичание: протестировано на полимерных веревках с прочностью на разрыв до 500 кг.",
+      "displayString": "Редонос"
+    },
+    "apollo-thunder-pill": {
+      "name": "apollo-thunder-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "apollo-thunder-pill",
+      "description": "Когда я учился в колледже, у нас с друганами была забава: мы били друг друга электрошоком и кто последний не отрубался - тот выигрывал. Я побеждал всегда, ведь я принимал 'Глухарь'",
+      "displayString": "Глухарь"
+    },
+    "ascend-apostle-pill": {
+      "name": "ascend-apostle-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "ascend-apostle-pill",
+      "description": "ФОРВЕ НИКОМУ НЕ ДАВАЙ.",
+      "displayString": "ФОРВЕ НИКОМУ НЕ ДАВАЙ"
+    },
+    "cometa": {
+      "name": "cometa",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "cometa",
+      "description": "Тебе нужно срочно сменить настроение с минуса на плюс и продолжить тусоваться? Такое средство есть! 'Комета'! Легко запомнить - легко купить - легко тусить!",
+      "displayString": "Комета"
+    },
+    "emotional-pill": {
+      "name": "emotional-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "emotional-pill",
+      "description": "Не знаешь как подкатить к той красотке у шеста? Проводишь вечера на работе вместо VR? Красишь волосы в скучный зеленый? А мы знаем в чем дело! Ты просто принимашь неправильные таблетки! Прими 'Импульсо' и убедишься сам! И добрый совет - захвати вторую для красотки у шеста.",
+      "displayString": "Импульсо"
+    },
+    "janus": {
+      "name": "janus",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "janus",
+      "description": "Если ты имеешь выход на этот препарат - ты знаешь как он действует и для чего применяется.",
+      "displayString": "Янус"
+    },
+    "memory-pill": {
+      "name": "memory-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "memory-pill",
+      "description": "Отвратительный секс? Наорало начальство? В нижнем городе кого-то разрезали у тебя на глазах? Да, приятель, ты видел некоторое дерьмо. Наша таблетка - просто отправит это дерьмо в помойку, где ему и место. Внимание! Принимать не позднее часа после неприятных событий.",
+      "displayString": "Развидео"
+    },
+    "occam-pill": {
+      "name": "occam-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "occam-pill",
+      "description": "Тебе предстоит важная встреча или серьезный разговор? Полагаешь, эмоции могут помешать тебе? Какая удача, что сегодня их можно просто выключить нажатием одной единственной кнопки - и эта кнопка перед тобой.",
+      "displayString": "Кнопка Оккама"
+    },
+    "pacific-pill": {
+      "name": "pacific-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "pacific-pill",
+      "description": "Дети жалуются, что вы стали часто их бить? Судья предупредил, что в следующий раз штрафом вы не отделаетесь? У одного Нашего Друга были подобные проблемы. Но потом он стал принимать наши таблетки. Добрейшей души человек.",
+      "displayString": "Dr. Goodkind"
+    },
+    "passion-pill": {
+      "name": "passion-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "passion-pill",
+      "description": "Корпоративный гнет? Гиперинфляция? Проблемы с сетью и электричеством? Заканчивается страховка? А ты уже успел пообещать многим, а теперь все ждут? Мы знаем это чувство. Но главный секрет в том, что все это не имеет значения. Важно только то, что ты чувствуешь. Чувствуй счастье.",
+      "displayString": "Винтажный клетчатый плед"
+    },
+    "pulsar": {
+      "name": "pulsar",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "pulsar",
+      "description": "Хочешь знать что мы принимаем, когда придумываем эти рекламные слоганы? Мы принимаем 'Пульсар'. Попробуй и ты - войди в состояние потока и пусть весь трафик виртуальной реальности течет через тебя!",
+      "displayString": "Пульсар"
+    },
+    "quasar": {
+      "name": "quasar",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "quasar",
+      "description": "Говорят, квазары - самые ярыкие и странные объекты во вселенной. Полная чушь!! Попробуй эти таблетки и убедись сам. Самый странный объект во вселенной - это ты.",
+      "displayString": "Квазар"
+    },
+    "skvt16": {
+      "name": "skvt16",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "skvt16",
+      "description": "Если ты имеешь выход на этот препарат - ты знаешь как он действует и для чего применяется.",
+      "displayString": "Сквт16"
+    },
+    "talker-pill": {
+      "name": "talker-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "talker-pill",
+      "description": "Требуется развязать язык конкуренту или кому-нибудь из членов семьи? Наше средство - самый надежный способ это сделать из тех, что легальны. Мы не задаем вопросов, мы просто продаем таблетки.",
+      "displayString": "From my heart in English"
+    },
+    "tanatos-afazia-pill": {
+      "name": "tanatos-afazia-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "tanatos-afazia-pill",
+      "description": "Если ты имеешь выход на этот препарат - ты знаешь как он действует и для чего применяется.",
+      "displayString": "Сайренс!"
+    },
+    "tanatos-belmo-pill": {
+      "name": "tanatos-belmo-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "tanatos-belmo-pill",
+      "description": "Когда я рос на ферме в Кентукки и нам нужно было сделать сюрприз именниннику или девушке - мы завязывали им глаза и приводили их в нужное место. Но ведь это так старомодно! Наша таблетка надежно лишает зрения на 10 минут. Предупреждение: не совместимо с управлениями небеспилотными транспортными средствами.",
+      "displayString": "Полифем"
+    },
+    "tanatos-buran-pill": {
+      "name": "tanatos-buran-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "tanatos-buran-pill",
+      "description": "Ваш непоседа проводит слишком много времени в  VR и его до сих пор не тошнит от этого? Давайте вместе это исправим. Выдавайте ему дисконнект каждый час - нечего ему сидеть в VR. Пусть гуляет по улицам!",
+      "displayString": "Дисконнект"
+    },
+    "tanatos-papuas-pill": {
+      "name": "tanatos-papuas-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "tanatos-papuas-pill",
+      "description": "А вот лидер и победитель. В чем секрет? Уверенность в себе! А мы это продаем! Кто продает? Мы продаем! Сегоня не только лишь все продадут тебе. А мы продадим. Товар 100%. А уверены мы в нем на все 146%. Если не помогло - возвращаем деньги.",
+      "displayString": "Не только лишь все"
+    },
+    "tanatos-staz-pill": {
+      "name": "tanatos-staz-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "tanatos-staz-pill",
+      "description": "Ваш непоседа постоянно заходит в спальню в самый неподходящий момент? Наша таблетка надежно обездвижит его на 10 минут. Успеете? Предупреждение: не действует на домашних животных.",
+      "displayString": "Домосед"
+    },
+    "unlock-pill": {
+      "name": "unlock-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "unlock-pill",
+      "description": "Твой босс, партнер или 'друзья' говорят что ты порядочный человек перед тем как жестоко кинуть тебя? Переводим: они называют тебя рабом. Моральные нормы - это ведь так удобно? Для них. Мы же просто предлагаем тебе свободу.",
+      "displayString": "Статуя Свободы"
+    },
+    "zagrey-pill": {
+      "name": "zagrey-pill",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "zagrey-pill",
+      "description": "Если ты имеешь выход на этот препарат - ты знаешь как он действует и для чего применяется.",
+      "displayString": "Zagrey-Surprise"
+    },
+    "lab_and_adam": {
+      "name": "lab_and_adam",
+      "displayString": "Дополнительная прошивка \"Адам\" (эксперимент)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "lab_and_adam",
+      "description": "Система: undefined\nНасилие, Агрессивность, Холодное оружие, Огнестрельное оружие, Броня, Самопожертвование, Оценка целесообразности действий, Лидерство, Дух соперничества, Риск, Самоуверенность"
+    },
+    "lab_and_basic": {
+      "name": "lab_and_basic",
+      "displayString": "Прошивка базовая (пиратская)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "lab_and_basic",
+      "description": "Система: undefined\nB944 Память, Логика, D512 Распознавание образов, D384 Распознавание звуков, F013 Контроль над телом, B004 Свой чужой, B403 Подчинение, F818 Речь устная и письменная, VR, Аудио/видео запись, S762 Самодиагностика повреждений, S788 Способность починить себя самостоятельно, Самообучение, Употребление напитков/еды (видимость!)"
+    },
+    "lab_and_berg": {
+      "name": "lab_and_berg",
+      "displayString": "Дополнительная прошивка \"Берг\" (эксперимент)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "lab_and_berg",
+      "description": "Система: undefined\nАсситент, Психолог, Артист, Самосохранение, Распознавание эмоций, Черты характера, Реакция на внешние раздражители, Изображение эмоций, Забота, Юмор, Индивидуальность"
+    },
+    "lab_and_eva": {
+      "name": "lab_and_eva",
+      "displayString": "Дополнительная прошивка \"Ева\" (эксперимент)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "lab_and_eva",
+      "description": "Система: undefined\nСамосохранение, Привязанность, Распознавание эмоций, Сопереживание, Кулинария, Беседа, Соблазнение, Секс, Артист"
+    },
+    "lab_and_fighter": {
+      "name": "lab_and_fighter",
+      "displayString": "Дополнительная прошивка боевая (пиратская)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "lab_and_fighter",
+      "description": "Система: undefined\nНасилие, Холодное оружие, Огнестрельное оружие, Броня, Самопожертвование, Телохранитель, Киллер"
+    },
+    "lab_pliers": {
+      "name": "lab_pliers",
+      "displayString": "Биопротез руки \"Клещи\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "lab_pliers",
+      "description": "Система: musculoskeletal\nМожешь удерживать одного человека. Пока держишь, персонаж не может двигаться, сопротивляться. После этого сними с себя все хиты кроме одного\n\nЧтобы заявить эффект, произнеси громко \"Удержание\" или \"Удерживаю\"."
+    },
+    "lab_true": {
+      "name": "lab_true",
+      "displayString": "Биостимулятор нервной системы \"Настоящая правда\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "lab_true",
+      "description": "Система: nervous\nТеперь ты понимаешь, когда человек тебе лжет. Поэтому ты можешь заставить одного человека раз в цикл честно ответить на один твой вопрос \"да\" или \"нет\". Никаких сложносочиненных ответов - только \"да\" или \"нет\". Ты сам не можешь отвечать правду на прямо поставленный вопрос если находишься в VR"
+    },
+    "nh_and_function_aimed": {
+      "name": "nh_and_function_aimed",
+      "displayString": "Прошивка \"Аида\" (эксперимент)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "nh_and_function_aimed",
+      "description": "Система: undefined\nАсситент, Мониторинг основных жизненных показателей пациента, Первая помощь, Психолог, Секс, Соблазнение, Эвоэ-пиджин"
+    },
+    "nh_and_humanizer1 ": {
+      "name": "nh_and_humanizer1 ",
+      "displayString": "Дополнительная прошивка \"Аида\" (эксперимент)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "nh_and_humanizer1 ",
+      "description": "Система: undefined\nЗабота, Самосохранение, Самопожертвование, Ругань, Беседа, Юмор, Черты характера, Изображение эмоций, Изображение образа, Расширенные возможности в VR, в том числе смена образа в VR, Распознавание эмоций, Индивидуальность, Инициатива"
+    },
+    "old_and_basic1": {
+      "name": "old_and_basic1",
+      "displayString": "Прошивка базовая (цирковая, устаревшая)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "old_and_basic1",
+      "description": "Система: undefined\nB944 Память, Логика, D512 Распознавание образов, D384 Распознавание звуков, F013 Контроль над телом, B004 Свой чужой, B403 Подчинение, F818 Речь устная и письменная, Артист, Ругань, Беседа, VR, Изображение образа, S762 Самодиагностика повреждений, S788 Способность починить себя самостоятельно, Употребление напитков/еды (видимость!)"
+    },
+    "old_and_basic2": {
+      "name": "old_and_basic2",
+      "displayString": "Прошивка базовая (NDR, устаревшая)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "old_and_basic2",
+      "description": "Система: undefined\nB944 Память, Логика, D512 Распознавание образов, D384 Распознавание звуков, F013 Контроль над телом, B004 Свой чужой, B403 Подчинение, F818 Речь устная и письменная, Артист, Беседа, Изображение образа, S762 Самодиагностика повреждений, S788 Способность починить себя самостоятельно, Употребление напитков/еды (видимость!), B507 Законопослушность, Самообучение, Повар, Дворецкий, Официант"
+    },
+    "s_and_ai": {
+      "name": "s_and_ai",
+      "displayString": "Прошивка \"АЙ\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_ai",
+      "description": "Система: undefined\nСамосохранение, Распознавание эмоций, Артист, Беседа, Соблазнение, Секс"
+    },
+    "s_and_aidx": {
+      "name": "s_and_aidx",
+      "displayString": "Прошивка андроида комплексной модели \"АЙ-DEX\" ",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_aidx",
+      "description": "Система: undefined\nСоблазнение, Секс, Самопожертвование, Распознавание эмоций, Артист, Беседа, Насилие, Холодное оружие, Огнестрельное оружие, Броня, Телохранитель, Импровизация"
+    },
+    "s_and_basic": {
+      "name": "s_and_basic",
+      "displayString": "Прошивка базовая (DC, Serenity)",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_basic",
+      "description": "Система: undefined\nB944 Память, Логика, D512 Распознавание образов, D384 Распознавание звуков, F013 Контроль над телом, B004 Свой чужой, B403 Подчинение, F818 Речь устная и письменная, S762 Самодиагностика повреждений, S788 Способность починить себя самостоятельно, B507 Законопослушность, VR, Самообучение, Аудио/видео запись, Употребление напитков/еды (видимость!)"
+    },
+    "s_and_dx": {
+      "name": "s_and_dx",
+      "displayString": "Прошивка \"DEX\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_dx",
+      "description": "Система: undefined\nНасилие, Холодное оружие, Огнестрельное оружие, Броня, Инициатива, Самопожертвование, Разведка, Стратегия боя, Телохранитель, Киллер, Полицейский, Служба безопасности"
+    },
+    "s_and_gn": {
+      "name": "s_and_gn",
+      "displayString": "Прошивка \"ГАН\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_gn",
+      "description": "Система: undefined\nЗабота, Самосохранение, Распознавание эмоций, Курьер, Повар, Сиделка, Няня, Официант, Беседа"
+    },
+    "s_and_gndx": {
+      "name": "s_and_gndx",
+      "displayString": "Прошивка андроида комплексной модели \"ГАН-DEX\" ",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_gndx",
+      "description": "Система: undefined\nЗабота, Самопожертвование, Повар, Дворецкий, Насилие, Холодное оружие, Огнестрельное оружие, Броня, Телохранитель"
+    },
+    "s_and_patch1": {
+      "name": "s_and_patch1",
+      "displayString": "Патч 1",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch1",
+      "description": "Система: undefined\nТемперамент и черты характера - позволяют создавать уникальные \"псевдоличности\" андроида"
+    },
+    "s_and_patch10": {
+      "name": "s_and_patch10",
+      "displayString": "Патч 10",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch10",
+      "description": "Система: undefined\nТехнология Юкки даёт возможность переносить в андроида модели \"Юкки\" сознание его Владельца"
+    },
+    "s_and_patch2": {
+      "name": "s_and_patch2",
+      "displayString": "Патч 2",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch2",
+      "description": "Система: undefined\nАнализ ситуации, Способность расставлять приоритеты в задачах"
+    },
+    "s_and_patch3": {
+      "name": "s_and_patch3",
+      "displayString": "Патч 3",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch3",
+      "description": "Система: undefined\nЖесты и мимика - улучшает изображение эмоций, делает мимику живее и жесты выразительнее"
+    },
+    "s_and_patch4": {
+      "name": "s_and_patch4",
+      "displayString": "Патч 4",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch4",
+      "description": "Система: undefined\nБолее экономный расход энергии, время между подзарядками увеличается на 1 час"
+    },
+    "s_and_patch5": {
+      "name": "s_and_patch5",
+      "displayString": "Патч 5",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch5",
+      "description": "Система: undefined\nАнализ скрытых смыслов даёт возможность понимать подтекст, сарказм и пр."
+    },
+    "s_and_patch6": {
+      "name": "s_and_patch6",
+      "displayString": "Патч 6",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch6",
+      "description": "Система: undefined\nИмитация реакций на внешние раздражители: чихать, щуриться от солнца, затыкать уши от шума и так далее"
+    },
+    "s_and_patch7": {
+      "name": "s_and_patch7",
+      "displayString": "Патч 7",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch7",
+      "description": "Система: undefined\nРасширенные возможности в VR, в том числе смена образа в VR"
+    },
+    "s_and_patch8": {
+      "name": "s_and_patch8",
+      "displayString": "Патч 8",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch8",
+      "description": "Система: undefined\nАссоциативное мышление"
+    },
+    "s_and_patch9": {
+      "name": "s_and_patch9",
+      "displayString": "Патч 9",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_patch9",
+      "description": "Система: undefined\nРефлексивность - способность анализировать окружающий мир и своё поведение, строить планы, предсказывать и осознавать последствия тех или иных действий, признавать свои ошибки и извлекать из них опыт."
+    },
+    "s_and_personality1": {
+      "name": "s_and_personality1",
+      "displayString": "Дополнительная прошивка для андроидов модели \"DEX\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_personality1",
+      "description": "Система: undefined\nЮмор, Ругань"
+    },
+    "s_and_personality2": {
+      "name": "s_and_personality2",
+      "displayString": "Дополнительная прошивка для андроидов моделей \"ЮШОУ\", \"АЙ\", \"ГАН\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_personality2",
+      "description": "Система: undefined\nЮмор, Ругань, Изображение эмоций, Изображение образа"
+    },
+    "s_and_ys": {
+      "name": "s_and_ys",
+      "displayString": "Прошивка \"ЮШОУ\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_ys",
+      "description": "Система: undefined\nАссистент, Самосохранение, Распознавание эмоций, Юрист, Финансы, Эвоэ-пиджин, Беседа"
+    },
+    "s_and_ysai": {
+      "name": "s_and_ysai",
+      "displayString": "Прошивка андроида комплексной модели \"ЮШОУ-АЙ\" ",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_ysai",
+      "description": "Система: undefined\nАссистент, Самосохранение, Распознавание эмоций, Артист, Беседа, Соблазнение, Секс, Импровизация"
+    },
+    "s_and_ysdx": {
+      "name": "s_and_ysdx",
+      "displayString": "Прошивка андроида комплексной модели \"ЮШОУ-DEX\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_ysdx",
+      "description": "Система: undefined\nАссистент, Самопожертвование, Насилие, Холодное оружие, Огнестрельное оружие, Броня, Телохранитель"
+    },
+    "s_and_ysgn": {
+      "name": "s_and_ysgn",
+      "displayString": "Прошивка андроида комплексной модели \"ЮШОУ-ГАН\" ",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_ysgn",
+      "description": "Система: undefined\nАссистент, Забота, Самосохранение, Артист, Распознавание эмоций, Повар, Дворецкий, Беседа"
+    },
+    "s_and_ysmed": {
+      "name": "s_and_ysmed",
+      "displayString": "Прошивка андроида комплексной модели \"ЮШОУ-MED\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "s_and_ysmed",
+      "description": "Система: undefined\nАссистент, Самосохранение, Распознавание эмоций, Медицинское оборудование, Ассистирование хирургу, Первая помощь, Забота, Психолог, Мониторинг основных жизненных показателей пациента"
+    },
+    "x_dark": {
+      "name": "x_dark",
+      "displayString": "Киберлегкое \"Темный\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "x_dark",
+      "description": "Система: respiratory\nПри легком ранении хиты автоматически не теряются."
+    },
+    "yk_and_basic": {
+      "name": "yk_and_basic",
+      "displayString": "Прошивка базовая \"ЮККИ\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "yk_and_basic",
+      "description": "Система: undefined\nB944 Память, Логика, D512 Распознавание образов, D384 Распознавание звуков, F013 Контроль над телом, B004 Свой чужой, B403 Подчинение, F818 Речь устная и письменная, S762 Самодиагностика повреждений, S788 Способность починить себя самостоятельно, B507 Законопослушность, VR, Самообучение, Аудио/видео запись, Привязанность, Инициатива, Самопожертвование, Самосохранение, Распознавание эмоций, Артист, Беседа, Забота, Употребление напитков/еды (видимость!), Темперамент, Юмор, Употребление напитков/еды (видимость!)"
+    },
+    "jj_biobar": {
+      "name": "jj_biobar",
+      "displayString": "Клон щитовидной железы \"БиоБар\"",
+      "isPhysical": false,
+      "resourceCost": 0,
+      "apiKey": "jj_biobar",
+      "description": "Система: endocrine\nБиологический имплант, ограничивающий тягу к алкоголю."
+    },
+    "cff95d109350312cb1474179f99e4271": {
+      "name": "cff95d109350312cb1474179f99e4271",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "cff95d109350312cb1474179f99e4271",
+      "description": ""
+    },
+    "jj-immortal-one": {
+      "name": "jj-immortal-one",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "jj-immortal-one",
+      "description": ""
+    },
+    "jj-immortal-two": {
+      "name": "jj-immortal-two",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "jj-immortal-two",
+      "description": ""
+    },
+    "pa-immortal": {
+      "name": "pa-immortal",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "pa-immortal",
+      "description": ""
+    },
+    "s-immortal": {
+      "name": "s-immortal",
+      "displayString": "",
+      "isPhysical": true,
+      "resourceCost": 0,
+      "apiKey": "s-immortal",
+      "description": ""
+    }
+  },
+  "Misc": {
+    "Themes": {
+      "fedcybex": "nims-theme",
+      "arasinc": "nims-theme"
+    },
+    "masterTheme": "des-light-theme",
+    "queue": [],
+    "queueInProgress": {}
+  }
+}

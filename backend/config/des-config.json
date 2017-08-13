@@ -1,0 +1,48 @@
+{
+  "port":3002,
+  "session": {
+    "secret": "KillerIsJim",
+    "key": "sid",
+    "cookie": {
+      "path": "/",
+      "httpOnly": true,
+      "maxAge": null
+    },
+    "saveUninitialized": true,
+    "resave": false
+  },
+  "autosave":{
+    "interval": 60000,
+    "copyNumber": 3,
+    "root":""
+  },
+  "inits":{
+    "adminLogin":"admin",
+    "adminPass":"zxpoYR65",
+    "projectName":"des",
+    "createMaster":false
+  },
+  "frontendPath" : "C:\\workspaces\\nodeclipse\\NIMS\\dist",
+  "https": {
+      "enabled" : false,
+      "privateKey" : "C:\\workspaces\\nodeclipse\\NIMS Server Next\\server.key",
+      "certificate" : "C:\\workspaces\\nodeclipse\\NIMS Server Next\\server.crt"
+  }, 
+  "api" :{
+      "enabled" : false
+  }, 
+  "playerAccess" :{
+      "enabled" : true
+  }, 
+  "compression" :{
+      "enabled" : false
+  },
+  "logOverrides" :{
+      "enabled" : false,
+      "overrides" : {
+          "statisticsAPI" : {
+              "getStatistics" : {}
+          }
+      }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "nims_server",
+  "version": "0.2.0",
+  "description": "This is an SMTK NIMS server platform. It is used for collaborative LARP games writing.",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/NtsDK/story-master-toolkit-smtk-nims-server"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "forever start -o ./logs/backend.log -e ./logs/backedn-err.log ./bin/www --configFile ../config.json",
+    "stop": "forever stop ./bin/www",
+    "dev": "node ./bin/www --configFile ../config.json",
+    "list": "forever list"
+  },
+  "author": "Timofey Rechkalov (NtsDK)",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "dependencies": {
+    "ajv": "^4.10.4",
+    "body-parser": "~1.15.2",
+    "compression": "^1.6.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.1",
+    "dateformat": "^2.0.0",
+    "debug": "~2.2.0",
+    "errorhandler": "^1.5.0",
+    "express": "~4.14.0",
+    "express-session": "^1.14.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "nconf": "^0.8.4",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "ramda": "^0.24.1",
+    "serve-favicon": "~2.3.0",
+    "winston": "^2.3.0"
+  }
+}
