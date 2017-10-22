@@ -55,7 +55,9 @@ require('./boot')(app);
 require('./middlewares')(app);
 require('./routes')(app);
 
-app.use(express.static(config.get('frontendPath')));
+//app.use(express.static(config.get('frontendPath')));
+// TODO move value to config
+app.use(express.static('frontend'));
 
 app.use(function(err, req, res, next) {
     console.error(new Date().toString() + ' ' + err);
