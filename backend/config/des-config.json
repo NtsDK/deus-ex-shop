@@ -22,11 +22,11 @@
     "projectName":"des",
     "createMaster":false
   },
-  "frontendPath" : "C:\\workspaces\\nodeclipse\\NIMS\\dist",
+  "frontendPath" : "../../frontend",
   "https": {
       "enabled" : false,
-      "privateKey" : "C:\\workspaces\\nodeclipse\\NIMS Server Next\\server.key",
-      "certificate" : "C:\\workspaces\\nodeclipse\\NIMS Server Next\\server.crt"
+      "privateKey" : "",
+      "certificate" : ""
   }, 
   "api" :{
       "enabled" : false
