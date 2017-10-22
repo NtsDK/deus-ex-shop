@@ -30,6 +30,7 @@ module.exports = function(LocalDBMS, opts) {
     var getCurPillsDataOpts     = R.mergeDeepRight(R.clone(assetsApiCheckOpts), apiOptions.getCurPillsDataOpts);
     
     LocalDBMS.prototype.importPills = function(callback) {
+        callback(new Error('External API is not available'));
         getFullImplantDataOpts.auth = config.pillsBaseCredentials.login + ':' + config.pillsBaseCredentials.password;
 //        makeReq(assetsApiCheckOpts, onOk);
         var database = this.database;
@@ -91,6 +92,7 @@ module.exports = function(LocalDBMS, opts) {
     };
     
     LocalDBMS.prototype.importImplants = function(callback) {
+        callback(new Error('External API is not available'));
         getFullImplantDataOpts.auth = config.implantsBaseCredentials.login + ':' + config.implantsBaseCredentials.password;
 //        makeReq(assetsApiCheckOpts, onOk);
         var database = this.database;
@@ -124,6 +126,7 @@ module.exports = function(LocalDBMS, opts) {
         makeReq(getFullImplantDataOpts, onOk, callback);
     };
     LocalDBMS.prototype.getImplantsAPICheck = function(callback) {
+        callback(new Error('External API is not available'));
         var index = 0;
         var arr = [];
         var assets = R.clone(this.database.Assets);
@@ -152,6 +155,7 @@ module.exports = function(LocalDBMS, opts) {
         makeReq(assetsApiCheckOpts, onOk, callback);
     };
     LocalDBMS.prototype.getPillsAPICheck = function(callback) {
+        callback(new Error('External API is not available'));
         var assets = R.clone(this.database.Assets);
 //        var assets = R.values(assets).filter(asset => !asset.isPhysical && asset.resourceCost > 0);
         var assets = R.values(assets).filter(asset => asset.isPhysical && asset.apiKey !== '');
@@ -214,6 +218,7 @@ module.exports = function(LocalDBMS, opts) {
     };
     
     LocalDBMS.prototype.getShopsAPICheck = function(callback) {
+        callback(new Error('External API is not available'));
         var index = 0;
         var arr = [];
         var shops = R.clone(this.database.Shops);
@@ -255,6 +260,7 @@ module.exports = function(LocalDBMS, opts) {
     };
     
     LocalDBMS.prototype.getShopAPICheck = function(shopName, callback) {
+        callback(new Error('External API is not available'));
         var container = R.path(containerPath, this.database);
         PC.precondition(PC.entityExistsCheck(shopName, R.keys(container)), callback, () => {
             var shop = container[shopName];
@@ -280,6 +286,7 @@ module.exports = function(LocalDBMS, opts) {
     };
     
     LocalDBMS.prototype.getShopIndex = function(shopName, callback) {
+        callback(new Error('External API is not available'));
         var container = R.path(containerPath, this.database);
         PC.precondition(PC.entityExistsCheck(shopName, R.keys(container)), callback, () => {
             var shop = container[shopName];
@@ -349,6 +356,7 @@ module.exports = function(LocalDBMS, opts) {
     }
     
     LocalDBMS.prototype.buyAsset = function(shopName, assetName, assetType, cost, customerLogin, customerPassword, opts, callback) {
+        callback(new Error('External API is not available'));
         initializeQueue(this.database);
         var container = R.path(containerPath, this.database);
         var chain = [PC.entityExistsCheck(shopName, R.keys(container)), PC.isString(assetName), 
