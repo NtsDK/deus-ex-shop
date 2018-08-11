@@ -24,7 +24,6 @@ See the License for the specific language governing permissions and
     
         exports.getSchema = function(base) {
             var schema = {
-                "$schema": "http://json-schema.org/draft-04/schema#",
                 "title": "SMTK NIMS base",
                 "description": "SMTK NIMS base schema.",
                 "type": "object",
